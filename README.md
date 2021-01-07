@@ -1,5 +1,8 @@
 # gtav-portblock
 
+## Introduction
+This is simply a fork to do some small edits to how info is displayed when running the file. I wanted to be able to see what "mode" I was in on the taskbar and I wanted the text to wrap predictably in the console window. So I added "title" commands and manually wrapped long lines. Nothing else was changed, and credit for this VERY useful utility goes to the [original author](https://github.com/reverie89/gtav-portblock). 
+
 ## About this program
 This tool uses *Windows Firewall* to set up port blocking and whitelisting so you can have a fun experience playing GTA V: Online alone or with your friends. You must enable it first if you want to use this tool.
 
